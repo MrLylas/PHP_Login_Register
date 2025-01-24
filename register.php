@@ -22,7 +22,7 @@
             <label for="password2" name="password2" id="password2">Confirm Password</label>
             <input type="password" name="password2" id="password2"><br>
             
-            <input type="submit" value="Sign in"> 
+            <input type="submit" name="submit" value="Sign in"> 
             </form>
         </main>
 </body>
